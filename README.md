@@ -22,6 +22,9 @@ It also allowes for watching for changes in any of the imported or entry modules
 I was littlebit bored once so i decided to create a little js dialect called simon / simonlang and a transpiler from simonlang to plainjs.
 I've now extended the toolset a bit and created a language support plugin for [vscode](https://marketplace.visualstudio.com/items?itemName=rothert.simonlang)
 
+# [dce](https://github.com/puresamari/dce) [![npm version](https://badge.fury.io/js/dce.svg)](https://badge.fury.io/js/dce)
+DCE gives the option to create a dom element, attach it to a parent and assign multiple attributes through a function instead of individually.
+
 # Web explorations
 
 - [tresor.rothert.cc](https://tresor.rothert.cc/) - [repo](https://github.com/puresamari/rothert.cc-tresor): A small exploration into combining sound and an endless scroll animation 😅

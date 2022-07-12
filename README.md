@@ -2,6 +2,9 @@ Hi there 👋
 
 Here are a few projects im working on:
 
+# [ewibs](https://github.com/ewibs)
+Ewibs is an onging project where I'm trying to build a framework that lets you build websites through an application and compile it through cli. The idea is to have the app generate code that can be versionized through git so you can make use of all common tools that are available in git and node.
+
 # [SPB](https://github.com/puresamari/spb) [![npm version](https://badge.fury.io/js/%40puresamari%2Fspb-core.svg)](https://badge.fury.io/js/%40puresamari%2Fspb-core)
 SPB is a suite of tools that help you bundle a simple website setup by compiling / transpiling a veriety of language (including ts, sass, pug and so on) into a dist folder you can then just upload to wherever you are hosting it.
 
@@ -24,9 +27,6 @@ I've now extended the toolset a bit and created a language support plugin for [v
 
 # [dce](https://github.com/puresamari/dce) [![npm version](https://badge.fury.io/js/dce.svg)](https://badge.fury.io/js/dce)
 DCE gives the option to create a dom element, attach it to a parent and assign multiple attributes through a function instead of individually.
-
-# [ewibs](https://github.com/ewibs)
-Ewibs is an onging project where I'm trying to build a framework that lets you build websites through an application and compile it through cli. The idea is to have the app generate code that can be versionized through git so you can make use of all common tools that are available in git and node.
 
 # Web explorations
 

@@ -25,6 +25,9 @@ I've now extended the toolset a bit and created a language support plugin for [v
 # [dce](https://github.com/puresamari/dce) [![npm version](https://badge.fury.io/js/dce.svg)](https://badge.fury.io/js/dce)
 DCE gives the option to create a dom element, attach it to a parent and assign multiple attributes through a function instead of individually.
 
+# [ewibs](https://github.com/ewibs)
+Ewibs is an onging project where I'm trying to build a framework that lets you build websites through an application and compile it through cli. The idea is to have the app generate code that can be versionized through git so you can make use of all common tools that are available in git and node.
+
 # Web explorations
 
 - [tresor.rothert.cc](https://tresor.rothert.cc/) - [repo](https://github.com/puresamari/rothert.cc-tresor): A small exploration into combining sound and an endless scroll animation 😅
